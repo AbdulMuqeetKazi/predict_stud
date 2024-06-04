@@ -1,0 +1,5 @@
+[ 2024-06-02 21:30:34,244 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-06-02 21:30:34,259 ] 97 werkzeug - INFO -  * Debugger PIN: 984-376-652
+[ 2024-06-02 21:31:10,662 ] 97 werkzeug - INFO - 127.0.0.1 - - [02/Jun/2024 21:31:10] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
+[ 2024-06-02 21:31:43,648 ] 97 werkzeug - INFO - 127.0.0.1 - - [02/Jun/2024 21:31:43] "POST /predictdata HTTP/1.1" 200 -
+[ 2024-06-02 21:33:35,275 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\Aya\\workspace\\predict_student\\app.py', reloading

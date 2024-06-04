@@ -1,0 +1,10 @@
+[ 2024-06-02 23:44:24,804 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-06-02 23:44:24,820 ] 97 werkzeug - INFO -  * Debugger PIN: 984-376-652
+[ 2024-06-02 23:44:46,871 ] 97 werkzeug - INFO - 127.0.0.1 - - [02/Jun/2024 23:44:46] "GET / HTTP/1.1" 200 -
+[ 2024-06-02 23:44:47,260 ] 97 werkzeug - INFO - 127.0.0.1 - - [02/Jun/2024 23:44:47] "GET /static/css/styles.css HTTP/1.1" 200 -
+[ 2024-06-02 23:44:47,871 ] 97 werkzeug - INFO - 127.0.0.1 - - [02/Jun/2024 23:44:47] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-06-02 23:44:54,666 ] 97 werkzeug - INFO - 127.0.0.1 - - [02/Jun/2024 23:44:54] "GET /predictdata HTTP/1.1" 200 -
+[ 2024-06-02 23:44:55,714 ] 97 werkzeug - INFO - 127.0.0.1 - - [02/Jun/2024 23:44:55] "GET /static/css/styles_home.css HTTP/1.1" 200 -
+[ 2024-06-02 23:45:13,748 ] 97 werkzeug - INFO - 127.0.0.1 - - [02/Jun/2024 23:45:13] "POST /predictdata HTTP/1.1" 200 -
+[ 2024-06-02 23:45:13,780 ] 97 werkzeug - INFO - 127.0.0.1 - - [02/Jun/2024 23:45:13] "[36mGET /static/css/styles_home.css HTTP/1.1[0m" 304 -
+[ 2024-06-02 23:47:07,313 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\Aya\\workspace\\predict_student\\app_streamlit.py', reloading

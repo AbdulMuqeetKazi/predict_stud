@@ -1,0 +1,5 @@
+[ 2024-06-03 00:18:37,222 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-06-03 00:18:37,224 ] 97 werkzeug - INFO -  * Debugger PIN: 354-897-043
+[ 2024-06-03 00:18:42,191 ] 97 werkzeug - INFO - 127.0.0.1 - - [03/Jun/2024 00:18:42] "POST /predictdata HTTP/1.1" 200 -
+[ 2024-06-03 00:18:42,191 ] 97 werkzeug - INFO - 127.0.0.1 - - [03/Jun/2024 00:18:42] "POST /predictdata HTTP/1.1" 200 -
+[ 2024-06-03 00:18:42,424 ] 97 werkzeug - INFO - 127.0.0.1 - - [03/Jun/2024 00:18:42] "[36mGET /static/css/styles_home.css HTTP/1.1[0m" 304 -
